@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently Learning : DBMS, DSA, JavaScript
+- 🌱 I’m currently learning : DBMS, DSA, JavaScript
+-  📫 How to reach me: hillkalola18@gmail.com
 
 
 ## 🌐 Socials:
