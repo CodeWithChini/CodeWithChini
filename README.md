@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h2>2nd Year student at Darshan University.</h2>
 🌱 I’m currently learning :  DBMS , Data Structure, JavaScript, ReactJs<br>
 -  📫 How to reach me: hillkalola18@gmail.com
 
